@@ -16,4 +16,7 @@ a post related to git in the tunisan university :
  ## git internal
  - https://git-scm.com/book/en/v2/Git-Internals-Git-Objects
  - https://medium.com/gitopia/git-a-stupid-content-tracker-d0ef5b86865f
+
+## reddit discussion 
+- https://www.reddit.com/r/git/comments/1xymq2/do_people_use_git_for_things_other_than_software/
   
