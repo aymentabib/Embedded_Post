@@ -12,4 +12,8 @@ a post related to git in the tunisan university :
  -  the first section"Learn git" it's related only to bitbucket cloud. for a beginner you must start by the second section : 
  "beginner"
  
+ 
+ ## git internal
+ - https://git-scm.com/book/en/v2/Git-Internals-Git-Objects
+ - https://medium.com/gitopia/git-a-stupid-content-tracker-d0ef5b86865f
   
