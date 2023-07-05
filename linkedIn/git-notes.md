@@ -17,6 +17,7 @@ a post related to git in the tunisan university :
  - https://git-scm.com/book/en/v2/Git-Internals-Git-Objects
  - https://medium.com/gitopia/git-a-stupid-content-tracker-d0ef5b86865f
  - https://matthew-brett.github.io/curious-git/reading_git_objects.html
+ - https://thoughtbot.com/upcase/videos/git-object-model#:~:text=A%20%22tree%22%20in%20Git%20is,for%20the%20file%20or%20directory.
 
 ## reddit discussion 
 - https://www.reddit.com/r/git/comments/1xymq2/do_people_use_git_for_things_other_than_software/
