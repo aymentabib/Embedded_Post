@@ -21,4 +21,7 @@ a post related to git in the tunisan university :
 
 ## reddit discussion 
 - https://www.reddit.com/r/git/comments/1xymq2/do_people_use_git_for_things_other_than_software/
-  
+## post details : 
+- Git is a content-addressable filesystem
+- content --> hash-object --> key
+- key --> cat-file --> content
