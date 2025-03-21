@@ -1,8 +1,8 @@
-
-https://www.youtube.com/watch?v=kAaIYRJoJkc&ab_channel=OneMarcFifty
-https://www.digikey.com/en/articles/iot-security-fundamentals-part-1-using-cryptography
-https://www.geeksforgeeks.org/x-509-authentication-service/
-https://learn.microsoft.com/en-us/azure/iot-hub/reference-x509-certificates
+- https://security.stackexchange.com/questions/259235/what-signature-and-certificate-signing-is-all-about?newreg=d138c7cae9dc4a2fa0952de8abefacc6
+- https://www.youtube.com/watch?v=kAaIYRJoJkc&ab_channel=OneMarcFifty
+- https://www.digikey.com/en/articles/iot-security-fundamentals-part-1-using-cryptography
+- https://www.geeksforgeeks.org/x-509-authentication-service/
+- https://learn.microsoft.com/en-us/azure/iot-hub/reference-x509-certificates
 
 Great question! Instead of using **public-private key encryption** for all communication, TLS uses a **session key** (symmetric encryption) after the handshake. Here’s why:
 ---
