@@ -3,7 +3,15 @@
 - https://www.digikey.com/en/articles/iot-security-fundamentals-part-1-using-cryptography
 - https://www.geeksforgeeks.org/x-509-authentication-service/
 - https://learn.microsoft.com/en-us/azure/iot-hub/reference-x509-certificates
+- https://www.cloudflare.com/learning/access-management/what-is-mutual-tls/?utm_source=chatgpt.com
+- https://docs.aws.amazon.com/iot/latest/developerguide/transport-security.html#:~:text=and%20AWS%20IoT%20Core%20uses%20TLS%20client%20authentication%20to%20identify%20devices.
+- https://docs.aws.amazon.com/iot/latest/developerguide/x509-client-certs.html
+--------
 
+When i ask studend or intern about TLS protocol of they know how basically it works  they answer me yes and there is a hand shake a key exchange and other steps in the tls. But when I start asking some why questions there no answers? When i started working with TLS, i had some why questions rises in my head.  An expert in cybersecurity should knows the answers but not me at this time ? The answers didnt change how you you use the tls or improve the security but  at least you understand the logic behind those steps.
+
+If we know how it works we should know why.
+---------
 Great question! Instead of using **public-private key encryption** for all communication, TLS uses a **session key** (symmetric encryption) after the handshake. Here’s why:
 ---
 Great question! In AWS IoT Core and TLS (Transport Layer Security) in general, these three files serve distinct roles in establishing a secure communication channel between your IoT device and AWS IoT Core.
